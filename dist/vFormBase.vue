@@ -198,7 +198,7 @@ const typeToComponent = {
   checkbox: 'v-checkbox',
   color: 'v-color-picker',
   date: 'v-text-field',
-  time: 'v-time-picker',
+  time: 'v-text-field',
   textarea: 'v-textarea'
 }
 // Declaration
