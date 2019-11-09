@@ -197,7 +197,7 @@ const typeToComponent = {
   switch: 'v-switch',
   checkbox: 'v-checkbox',
   color: 'v-color-picker',
-  date: 'v-date-picker',
+  date: 'v-text-field',
   time: 'v-time-picker',
   textarea: 'v-textarea'
 }
